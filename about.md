@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a retired computer programmer in North Carolina, and a long-time astronomy buff.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Unless otherwise mentioned, all images were taken from my backyard using a Celestron RASA 8 astrograph (telescope) and a ZWO ASI183MC camera.
 
 ### Contact me
 
