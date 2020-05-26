@@ -8,8 +8,8 @@ I am a retired computer programmer in North Carolina, and a long-time astronomy 
 
 ### More Information
 
-Unless otherwise mentioned, all images were taken from my backyard using a Celestron RASA 8 astrograph (telescope) and a ZWO ASI183MC camera.
+Unless otherwise mentioned, all images on this blog were taken from my backyard using a Celestron RASA 8 astrograph (telescope) and a ZWO ASI183MC camera, and were processed using the Startools software program.
 
-### Contact me
+### You can contact me
 
-[email@domain.com](mailto:email@domain.com)
+[howardgrams@yahoo.com](mailto:howardgrams@yahoo.com)
