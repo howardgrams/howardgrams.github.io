@@ -46,6 +46,9 @@ url: http://howardgrams.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# Things I've added - HLG
+copyright: Howard Grams
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
