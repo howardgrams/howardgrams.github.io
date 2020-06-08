@@ -1,0 +1,17 @@
+I"D<p>Here is some stuff.
+And some other stuff. And finally another sentence. And finally an addition.</p>
+
+<p><strong>raw html</strong>
+<img src="..\images\ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605.jpg" onmouseover="this.src='../images/flip4565.jpg'" /></p>
+
+<p>onmouseover=”this.src=’..\images\ngc4565flip.jpg’”
+onmouseout=”this.src=’..\images\ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605.jpg’”</p>
+
+<p><strong>Wide angle view of NGC 4565 and some of its neighboring galaxies</strong>
+<img src="..\images\ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605.jpg" alt="ngc4565" /></p>
+<hr />
+
+<p><em><strong>Zooming in on NGC 4565 and NGC 4562</strong></em>
+<img src="..\images\ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605_crop.jpg" alt="ngc4565" /></p>
+
+:ET
