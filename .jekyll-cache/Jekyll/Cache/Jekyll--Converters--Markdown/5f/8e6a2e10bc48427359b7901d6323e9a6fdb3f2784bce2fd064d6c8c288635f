@@ -1,7 +1,0 @@
-I"º<p>Here is some stuff.
-And some other stuff. And finally another sentence. And finally an addition.</p>
-
-<p><em><strong>raw html implementing mouseover to flip the image horizontally</strong></em>
-<img src="..\images\ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605.jpg" onmouseover="this.src='../images/flip4565.jpg'" onmouseout="this.src='../images/ngc4565_2020-04-19T00_03_33_Stack_16bits_302frames_906s_200605.jpg'" /></p>
-
-:ET
