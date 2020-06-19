@@ -7,19 +7,19 @@ The Leo Triplet is an interesting group of three mutually interacting galaxies t
 Each one of the galaxies is tilted at a different angle, making them all appear quite different from each other from our vantage point on Earth. NGC 3628 (The Hamburger Galaxy) is seen edge-on, with dark dust lanes that obscure the bright core of the galaxy. M65 and M66 are on angles that show off their beautiful spiral structure.
 
 
-First, a wide field picture, then below that there are individual close-ups of each of the three galaxies.
+_**First, a wide field picture, then below that there are individual close-ups of each of the three galaxies.**_
 
 ![M65+M66+NGC3628](..\images\m65-m66_2020-04-13T22_59_44_Stack_16bits_363frames_726s.jpg)
 
-NGC 3628
+_**NGC 3628**_
 
 ![NGC3623](..\images\ngc3628_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 
-M66
+_**M66**_
 
 ![M66](..\images\m66_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 
-and M65
+_**and M65**_
 
 ![M65](..\images\m65_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 

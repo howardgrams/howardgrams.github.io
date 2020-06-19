@@ -6,11 +6,11 @@ This supernova was discovered on May 6.  It is expected to continue to brighten 
 
 As it happens, I had taken a picture of the host galaxy M61 on April 15, and I took a new picture last night, on May 15.  You can easily see in the May 15 image that a new star has appeared in the spiral arm at about the 2 o'clock position from the bright center of the galaxy. The supernova is far from M61's blazing nucleus, gleaming bright and free in the galactic countryside. That makes it relatively easy to see compared to supernovae shrouded in the starry haze of their galaxies' cores.
 
-Here is M61 on March 15 without the supernova:
-![M61 on March 15, 2020](..\images\m61_2020-04-15T23_55_32_Stack_16bits_201frames_603s.jpg)
+_**Here is M61 on April 15 without the supernova:**_
+![M61 on April 15, 2020](..\images\m61_2020-04-15T23_55_32_Stack_16bits_201frames_603s.jpg)
 
-And here is M61 on April 15 showing the supernova:
-![M61 on April 15, 2020](..\images\m61_2020-05-15T21_45_56_Stack_16bits_201frames_603s.jpg)
+_**And here is M61 on May 15 showing the supernova:**_
+![M61 on May 15, 2020](..\images\m61_2020-05-15T21_45_56_Stack_16bits_201frames_603s.jpg)
 
 M61 itself is a beautiful barred spiral located about 52 million light-years away with a pinwheel of nebula-flecked arms and a bright, non-stellar core. It's also a starburst galaxy with an exceptionally high rate of star formation. Short-lived supergiant stars hatched within its myriad nebulae provide the fodder for regular supernovae. We've been enjoying the fireworks since the first supernova blew up here in 1926. Seven more followed in 1961, 1964, 1999, 2006, 2008, 2014 and now in 2020. M61 is similar in size to our own Milky Way galaxy.
 
