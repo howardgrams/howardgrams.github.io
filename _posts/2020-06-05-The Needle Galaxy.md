@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Needle Galaxy 
+categories: galaxy
+tags: ngc4565 ngc4562 ngc4555 ngc4494
 ---
 
 NGC 4565, the Needle Galaxy, is one of the most prominent and famous edge-on spiral galaxies in the sky.

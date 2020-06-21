@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Orion Nebula
+categories: nebula
+tags: m42 m43
 ---
 
 The Orion Nebula M42 is the most spectacular deep-sky object visible through almost any telescope.  Other than the moon, there is no other object in the night sky that reveals as much detail as M42.  It is visible to the naked eye as the fuzzy central star in Orion's sword.
@@ -15,6 +17,6 @@ You can see a stunning tapestry of knots, lumps and tendrils of nebulosity.
 
 ![m42](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_1080p.jpg)
 
-Finally, here is a less exposured zoomed in view of the central brightest part of M42, that reveals the trapezium. The four trapezium stars in a quadrillangle are known as Theta-1 Orionis, while the three stars in a line to its lower left are known as Theta-2 Orionis.  You can see Theta-2 in the brighter picture, while the trapezium is overpowered by the brightest part of the nebulosity.
+Finally, here is a less exposured zoomed in view of the central brightest part of M42, that reveals the trapezium. The four stars in the trapezium quadrilangle are known as Theta-1 Orionis, while the three stars in a line to its lower left are known as Theta-2 Orionis.  You can see Theta-2 in the brighter picture, while the trapezium is overpowered by the brightest part of the nebulosity.
 
 ![m42](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_cropped.jpg)

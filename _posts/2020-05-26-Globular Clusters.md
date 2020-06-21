@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Globular Clusters
+categories: globular
+tags: m3 m4 m5 m14
 ---
 
 Here are four representative Globular clusters.   Globular Clusters are gigantic spherical agglomerations of stars that surround the nucleus of our Milky Way galaxy.  Each globular cluster from hundreds of thousands to several million stars, and astronomers believe that the stars is most globular clusters are among the oldest stars in existance, perhaps as much as 10 billion years old.

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Leo Triplet - Three Galaxies
+categories: galaxy
+tags: m65 m66 ngc3628
 ---
 The Leo Triplet is an interesting group of three mutually interacting galaxies that are often observed and photographed within a single field of view. The Leo Triplet includes spiral galaxies M65 (lower right), M66 (lower left), and NGC 3628 (upper left). This group of galaxies is found in the constellation Leo, all of them are about 35 million light years from the earth.
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Rosette Nebula
+categories: nebula
+tags: ngc2244
 ---
 
 The Rosette Nebula is a large spherical H II region (circular in appearance) located near one end of a giant molecular cloud in the Monoceros region of the Milky Way Galaxy. The open cluster NGC 2244 is closely associated with the nebulosity, the stars of the cluster having been formed from the nebula's matter. 

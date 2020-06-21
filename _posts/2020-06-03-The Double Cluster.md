@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Perseus Double Cluster
+categories: open
+tags: ngc869 ngc884
 ---
 
 Two for the price of one! The Double Cluster consists of two open star clusters, known as H and Chi Persei (also called NGC 884 and 869).

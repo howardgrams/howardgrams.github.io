@@ -1,6 +1,8 @@
 ---
 layout: post
 title: A field of galaxies near M49
+categories: galaxy
+tags: ngc4535 ngc4519 ngc4526 ngc4818 ngc4470 ngc4492 ngc4488
 ---
 
 Here is an interesting field of galaxies in the constellation Virgo.  The brightest is Messier 49, an elliptical galaxy.  It is perhaps five times larger than our Milky Way galaxy and about 60 million light years distant.  Since elliptical galaxies have no discernable structure, they just appear as fuzzy blobs.

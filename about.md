@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a retired computer programmer living in North Carolina, and a long-time astronomy buff -- I started exploring the sky as a teenager back in the 1950s after saving up to buy a 4-inch reflecting telescope. ($49.95 was a lot of money in those days!) About two years ago I acquired an astro camera to use with my 30 year old 8-inch Meade SCT telescope -- this allowed me to dabble around with EAA (Electronically Assisted Astronomy).
+I am a retired computer programmer living in North Carolina, and a long-time astronomy buff -- I started exploring the sky as a teenager back in the 1950s after saving up my newspaper money to buy a 4-inch reflecting telescope. ($49.95 was a lot of money in those days!) About two years ago I acquired an astro camera to use with my 30 year old 8-inch Meade SCT telescope -- this allowed me to dabble around with EAA (Electronically Assisted Astronomy).
 
 In Jaunary of this year I acquired a new 8-inch RASA scope and a better astro camera.  The new RASA is photographically "fast" (f/2) and I am amazed at what I can see and photograph using a modern CMOS camera compared to visually observing through my old f/10 telescope.
 

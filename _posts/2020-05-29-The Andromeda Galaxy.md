@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Andromeda Galaxy
+categories: galaxy
+tags: m31 m32 m110
 ---
 
 If you've ever seen a picture of another galaxy, odds are that it was of this one, the Andromeda galaxy, also known as M31. At a distance of 2.54 million light years from us, it is closer and hence  appears larger than any other galaxy (apart from the two Magellanic Clouds in the southern hemisphere that are small satellites of our Milky Way). And it is on a collision course with us and will collide with our Milky Way in about four billion years.

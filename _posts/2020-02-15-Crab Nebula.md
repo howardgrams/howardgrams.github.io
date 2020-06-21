@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Crab Nebula
+categories: nebula
+tags: m1
 ---
 
 M1, the Crab Nebula, is the remnant of the spectacular supernova of 1054.

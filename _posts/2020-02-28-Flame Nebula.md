@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Flame Nebula
+categories: nebula
+tags: ngc2024
 ---
 The Flame Nebula, designated as NGC 2024, is an emission nebula in the constellation Orion. It is about 900 to 1,500 light-years away.
 

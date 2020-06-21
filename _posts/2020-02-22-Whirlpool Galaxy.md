@@ -1,6 +1,8 @@
 ---
 layout: post
 title: The Whirlpool Galaxy
+categories: galaxy
+tags: m51 ngc5195
 ---
 M51, better known as the Whirlpool Galaxy, 
 is a magnificent face-on spiral galaxy. 

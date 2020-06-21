@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Open Clusters
+categories: open planetary
+tags: m46 m35
 ---
 
 Scattered mostly along the Milky Way are stellar groupings called open clusters, randomly shaped families of mostly young, hot stars that are all gravitationally bound to each other.  Most stars are born in such clusters, containing anything between perhaps twenty to a few thousand stars.  All of the stars in a given cluster are about the same age, having formed together from the same nebula.
