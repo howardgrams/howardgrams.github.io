@@ -8,9 +8,7 @@ I am a retired computer programmer living in North Carolina, and a long-time ast
 
 Then in Jaunary of this year I got a new 8-inch RASA scope and a better astro camera.  The new RASA is photographically "fast" (f/2) and I am AMAZED at what I can see and photograph compared to visually observing through my old f/10 telescope.
 
-EAA allows amateur astronomers to observe objects in less than ideal conditions, especially under badly light polluted skies, or even when a bright Moon is present. Deep-sky celestial objects which are unimpressive or all but invisible in an eyepiece from urban or suburban skies easily become visible, with considerable detail, and in full color. By some informal estimates, EAA with a relatively inexpensive camera has the same effect as tripling telescope aperture for a visual observer without the drawbacks of a large bulky telescope. 
-
-EAA is also ideal for us older observers whose visual acuity is not what it used to be.
+EAA allows amateur astronomers to observe objects in less than ideal conditions, especially under badly light polluted skies, or even when a bright Moon is present. Deep-sky celestial objects which are unimpressive or all but invisible in an eyepiece from urban or suburban skies easily become visible, with considerable detail, and in full color. By some informal estimates, EAA with a relatively inexpensive camera has the same effect as tripling telescope aperture for a visual observer without the drawbacks of a large bulky telescope. EAA is also ideal for us older observers whose visual acuity is not what it used to be.
 
 I thought I would share some examples of what I see by setting up this blog.
 
