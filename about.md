@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About me
+title: About Me
 permalink: /about/
 ---
 
-I am a retired computer programmer living in North Carolina, and a long-time astronomy buff -- I started exploring the sky as a teenager back in the 1950s after saving up my newspaper money to buy a 4-inch reflecting telescope. ($49.95 was a lot of money in those days!) About two years ago I acquired an astro camera to use with my 30 year old 8-inch Meade SCT telescope -- this allowed me to dabble around with EAA (Electronically Assisted Astronomy).
+I am a retired computer programmer living in North Carolina, and a long-time astronomy buff. I started exploring the sky as a teenager back in the 1950s after saving up my paper route money to buy a 4-inch reflecting telescope. ($49.95 was a lot of money in those days!) About two years ago I acquired an astro camera to use with my 30 year old 8-inch Meade SCT telescope -- this allowed me to dabble around with EAA (Electronically Assisted Astronomy).
 
-Then in Jaunary of this year I got a new 8-inch RASA scope and a better astro camera.  The new RASA is photographically "fast" (f/2) and I am AMAZED at what I can see and photograph compared to visually observing through my old f/10 telescope.
-
-EAA allows amateur astronomers to observe objects in less than ideal conditions, especially under badly light polluted skies, or even when a bright Moon is present. Deep-sky celestial objects which are unimpressive or all but invisible in an eyepiece from urban or suburban skies easily become visible, with considerable detail, and in full color. By some informal estimates, EAA with a relatively inexpensive camera has the same effect as tripling telescope aperture for a visual observer without the drawbacks of a large bulky telescope. EAA is also ideal for us older observers whose visual acuity is not what it used to be.
+Then in Jaunary of this year I got a new 8-inch Celestron RASA scope and a better astro camera.  The new RASA is photographically very "fast" (f/2) and I am AMAZED at what I can see and photograph compared to visually observing through my old f/10 telescope.
 
 I thought I would share some examples of what I see by setting up this blog.
 
-### More Information
+### About Electronically Assisted Astronomy
+
+EAA allows amateur astronomers to observe objects in less than ideal conditions, especially under badly light polluted skies, or even when a bright Moon is present. Deep-sky celestial objects which are unimpressive or all but invisible in an eyepiece from urban or suburban skies easily become visible, with considerable detail, and in full color. By some informal estimates, EAA with a relatively inexpensive camera has the same effect as tripling telescope aperture for a visual observer without the drawbacks of a large bulky telescope. EAA is also ideal for us older observers whose visual acuity is not what it used to be.
+A mini computer to control the camera and the telescope ride together on the telescope and they communicate with the observer's main computer.  The observer sees the image in real time on his computer screen and can watch the results while multiple exposures are taken and stacked together to produce a better image with less noise.
+
+### About the Pictures on this Blog
 
 Unless otherwise mentioned, all images on this blog were taken from my light-polluted backyard using a Celestron RASA 8 astrograph (telescope) and an iOptron AZ Mount Pro alt-azimuth mount. The camera is a ZWO ASI183MC controlled using the Sharpcap software program, and I processed the raw images using the Startools software program. The images I show on this blog are stacks of multiple  short exposures (typically 3 seconds) to reach a total exposure of between 3 and 15 minutes.
 
