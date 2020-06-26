@@ -19,8 +19,6 @@ A mini computer to control the camera and the telescope ride together on the tel
 
 Unless otherwise mentioned, all images on this blog were taken from my light-polluted backyard using a Celestron RASA 8 astrograph (telescope) and an iOptron AZ Mount Pro alt-azimuth mount. The camera is a ZWO ASI183MC controlled using the Sharpcap software program, and I processed the raw images using the Startools software program. The images I show on this blog are stacks of multiple  short exposures (typically 3 seconds) to reach a total exposure of between 3 and 15 minutes.
 
-### If you have any questions or would like to share any comments, you can contact me at
-
-[howardgrams@yahoo.com](mailto:howardgrams@yahoo.com)
+### If you have any questions or would like to share any comments, you can click here to email me: [howardgrams@yahoo.com](mailto:howardgrams@yahoo.com)
 
 Let me know if you'd like to be on the list to receive a short email notification whenever I add new entries to this blog.

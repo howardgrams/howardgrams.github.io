@@ -23,9 +23,11 @@ body {
   color: $darkGray;
 }
 
+// HLG changed max-width 6/25/2020 this affects the text width - image width set to 200% elsewhere
+// also changed margin from 0 auto to 0 1em to move text and images from centered to near left margin
 .container {
-  margin: 0 auto;
-  max-width: 1440px;
+  margin: 0 1em;
+  max-width: 1200px;
   padding: 0 10px;
   width: 100%;
 }
@@ -106,8 +108,9 @@ strong, b {
   font-weight: bold;
 }
 
+// HLG changed from 100 to 200% 6/25/2020  - should be able to jigger the left margin negative if really wide image somehow ???
 img {
-  max-width: 100%;
+  max-width: 200%;
 }
 
 // Fixes images in popup boxes from Google Translate
@@ -165,9 +168,10 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
-  margin-right: 15px;
+  width: 60px;
+  height: 60px;
+  margin-left: 0px;
+  margin-right: 50px;
 
   @include mobile {
     float: none;

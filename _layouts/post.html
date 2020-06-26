@@ -14,6 +14,23 @@ layout: default
 
 <br><hr>
 
+{% if page.previous %}
+    {% if page.previous.url %}
+    Previous Post  ({{page.previous.date | date: "%b %d, %Y" }}):
+     <a href="{{page.previous.url}}">{{page.previous.title}}</a> 
+    {% endif %}
+    {% endif %}
+    <br>
+
+{% if page.next %}
+    {% if page.next.url %}
+    Next Post ({{page.next.date | date: "%b %d, %Y" }}):
+     <a href="{{page.next.url}}">{{page.next.title}} </a> 
+    {% endif %}
+    {% endif %}
+
+<hr>
+
 <div id="hyvor-talk-view"></div>
 <script type="text/javascript">
     var HYVOR_TALK_WEBSITE = 802; // DO NOT CHANGE THIS
@@ -25,5 +42,4 @@ layout: default
 </script>
 <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
 
-  {% include disqus.html %}
 </article>

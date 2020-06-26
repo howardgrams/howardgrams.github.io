@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Supernova in Galaxy M61 is Hanging in There
-categories: galaxy
+categories: galaxy supernova
 tags: m61
 ---
 This is an update to my May 16 post.  The sky was clear and moonless last Friday night, so I was able to check back in on the M61 supernova. A month later, it has faded only a little bit.  I'm happy to report that the "seeing" was better this night, so this image shows somewhat more detail in the galaxy compared to my earlier images.
