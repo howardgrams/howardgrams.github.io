@@ -2,8 +2,12 @@
 layout: default
 ---
 
+{% assign firstpost = site.posts | last %}
+<h5>The newest posts are listed below. <a href="{{ site.baseurl }}{{ firstpost.url }}">   Click here to start with the first/earliest post.</a></h5>
+
+{% for post in site.posts %}
 <div class="posts">
-  {% for post in site.posts %}
+  
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
