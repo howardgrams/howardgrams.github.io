@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
+
+    <!--HLG 6/28/2020 the ? at the end is magic for some reason, and need full path otherwise pages will look for icon in same directory-->
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico?">
+
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
@@ -13,6 +17,8 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <!-- HLG 6/28/2020 moved analytics from body to head per Google -->
+    {% include analytics.html %}
   </head>
 
   <body>
@@ -51,6 +57,5 @@
       </div>
     </div>
 
-    {% include analytics.html %}
   </body>
 </html>
