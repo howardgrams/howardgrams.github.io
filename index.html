@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign firstpost = site.posts | last %}
-<h5>This page lists the newest posts in reverse order. <a href="{{ site.baseurl }}{{ firstpost.url }}">   Click here to start with the first/earliest post.</a></h5>
+<h5>This page lists the newest posts in reverse order. <a href="{{ site.baseurl }}{{ firstpost.url }}">   Click here to start by reading the first (original) post.</a></h5>
 
 {% for post in site.posts %}
 <div class="posts">
@@ -11,10 +11,10 @@ layout: default
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-	 	  
-	<div class="date">
-    Posted on {{ post.date | date: "%B %e, %Y" }}
-  </div>
+      
+      <div class="date">
+        Posted on {{ post.date | date: "%B %e, %Y" }}
+      </div>
 
       <div class="entry">
         {{ post.excerpt }}

@@ -1,0 +1,7 @@
+{% if include.caption %}
+_**{{ include.caption }}**_ &nbsp;&nbsp; (And some more instrx)
+{% endif %}
+ <figure>
+  <img src="{{ include.path  }}"
+       alt="{% if include.alt %}{{ include.alt }}{% endif %}">
+</figure>

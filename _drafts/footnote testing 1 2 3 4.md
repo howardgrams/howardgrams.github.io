@@ -6,7 +6,16 @@ tags: m45
 ---
 This is a test - not a live post!
 
-The Pleiades, also known as the Seven Sisters and Messier 45, are an open star cluster containing hot middle-aged stars in the constellation Taurus. It is among the star clusters nearest to Earth and is the cluster most obvious to the naked eye in the night sky. Most people can see the 6 or 7 brightest stars that form a smallish "dipper" -- NOT to be confused with the Little Dipper (Ursa Minor constellation).
+<hr>
+
+Test figures and captioning
+
+{% include pic.html path="../images/m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg"
+caption="This is the caption to my test figure"
+alt="This is the alt data"
+  %}
+
+  <hr>
 
 [^fna]: Taken: 2020-02-22  Exposure: 202 x 3s = 606s
 _**M45  (move mouse over image to show the "dipper" shape, mouse off image to restore)**_ (details here [^fna])
