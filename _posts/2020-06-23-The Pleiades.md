@@ -9,7 +9,7 @@ The Pleiades, also known as the Seven Sisters and Messier 45, are an open star c
 
 _**M45  (move mouse over image to show the "dipper" shape, mouse off image to restore)**_
 <img src = "../images/m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg"
-alt = "m45"
+alt = "m45 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='../images/m45_2020-02-22t21_54_39_stack_16bits_202frames_606s_200621b_notes.jpg'"
 onmouseout = "this.src='../images/m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg'"
 />
@@ -20,7 +20,7 @@ The Pleiades were probably formed from a compact configuration that resembled th
 
 _**On April 23 of this year the planet Venus passed through the Pleiades**_
 <img src = "../images/venus+m45_2020-04-03T20_31_37_Stack_16bits_61frames_61s.jpg"
-alt = "venus+m45"
+alt = "venus+m45 seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='../images/venus+m45_2020-04-03t20_31_37_stack_16bits_61frames_61s_notes.jpg'"
 onmouseout = "this.src='../images/venus+m45_2020-04-03T20_31_37_Stack_16bits_61frames_61s.jpg'"
 />

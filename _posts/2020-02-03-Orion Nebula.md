@@ -15,8 +15,8 @@ Although it actually part of the same nebula, the separate smaller region at the
 
 You can see a stunning tapestry of knots, lumps and tendrils of nebulosity.
 
-![m42](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_1080p.jpg)
+![m42 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_1080p.jpg)
 
 Finally, here is a less exposured zoomed in view of the central brightest part of M42, that reveals the trapezium. The four stars in the trapezium quadrilangle are known as Theta-1 Orionis, while the three stars in a line to its lower left are known as Theta-2 Orionis.  You can see Theta-2 in the brighter picture, while the trapezium is overpowered by the brightest part of the nebulosity.
 
-![m42](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_cropped.jpg)
+![m42 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m42_2020-02-02T22_35_40_Stack_16bits_271frames_271s_cropped.jpg)

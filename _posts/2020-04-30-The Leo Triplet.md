@@ -11,17 +11,17 @@ Each one of the galaxies is tilted at a different angle, making them all appear 
 
 _**First, a wide field picture, then below that there are individual close-ups of each of the three galaxies.**_
 
-![M65+M66+NGC3628](..\images\m65-m66_2020-04-13T22_59_44_Stack_16bits_363frames_726s.jpg)
+![Leo Triplet seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m65-m66_2020-04-13T22_59_44_Stack_16bits_363frames_726s.jpg)
 
 _**NGC 3628**_
 
-![NGC3623](..\images\ngc3628_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
+![NGC3623 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\ngc3628_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 
 _**M66**_
 
-![M66](..\images\m66_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
+![M66 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m66_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 
 _**and M65**_
 
-![M65](..\images\m65_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
+![M65 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m65_2020-04-13T23_19_20_Stack_16bits_201frames_603s.jpg)
 

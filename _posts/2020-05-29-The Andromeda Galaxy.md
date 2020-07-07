@@ -13,7 +13,7 @@ It was long assumed to be one of the nearest gaseous nebulae in own Milky Way. L
 
 Andromeda is a fairly tightly-wound spiral galaxy that we see about 23 degrees away from being edge-on. Because of this, it is difficult to study its spiral structure. You can see very noticable dark dust clouds interspersed among the spiral arms, especially to the lower right (the portion of the disk nearest to us) and near the top.  Like the Milky Way, Andromeda also has two prominent satellite galaxies - M110 (the fuzzy patch in the lower right corner) and M32 (the smaller and more circular fuzzy patch at about the 8 o'clock position and a little closer to the nucleus of M31).
 
-![m31](..\images\m31_2020-02-21T19_14_31_Stack_16bits_150frames_300s x 5 Nr2.jpg)
+![m31 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m31_2020-02-21T19_14_31_Stack_16bits_150frames_300s x 5 Nr2.jpg)
 
 (I took this image in late February when Andromeda was fairly low in the west.  I hope to obtain better results next summer or autumn when it will be placed high in the sky.)
 

@@ -18,11 +18,11 @@ Fainter NGC 4818 is another spiral, as are  NGC 4470, and NCG 4492. The latter i
 
 _**M49 and neighbors    (move mouse over image to show annotations, mouse off image to reshow original)**_<br>
 <img src="../images/m49_2020-04-15T23_37_39_Stack_16bits_301frames_903s.jpg" 
-alt="M49 and neighbors"
+alt="M49 and neighbors seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover="this.src='../images/m49_2020-04-15T23_37_39_Stack_16bits_301frames_903s_legend.jpg'"
 onmouseout="this.src='../images/m49_2020-04-15T23_37_39_Stack_16bits_301frames_903s.jpg'"
 />
 
 
 _**A little closer view of NGC 4535**_<br>
-![ngc4535](..\images\ngc4535_2020-04-15T23_37_39_Stack_16bits_301frames_903s.jpg)
+![ngc4535 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\ngc4535_2020-04-15T23_37_39_Stack_16bits_301frames_903s.jpg)
