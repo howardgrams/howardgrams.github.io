@@ -10,8 +10,8 @@ M16 is a conspicuous cloud of interstellar gas and dust and is a region of activ
 
 The nebula and cluster are about 50 light years in diameter and 7000 light years away from us.
 
-_**The M16 Cluster and Eagle Nebula**_ &nbsp;&nbsp; (June 27, 2020 - 10 min total exposure)<br>
-![m16 seen using Celestron RASA 8 and ZWO ASI183MC](../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_bin2.jpg)
+_**The M16 Cluster and Eagle Nebula**_ &nbsp;&nbsp; (10 min total exposure June 27, 2020)<br>
+![m16 Eagle nebula seen using Celestron RASA 8 and ZWO ASI183MC](../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_bin2.jpg)
 
 
 The following image is a two-times enlargement of the central part of the nebula, rotated about 45 degrees to the left. The mouse-over notes show the location of the Hubble image.
@@ -19,7 +19,7 @@ The following image is a two-times enlargement of the central part of the nebula
 _**The Hubble "Pillars of Creation" are located in the heart of the Eagle Nebula**_  <br>(move mouse over image to show notes, mouse off image to remove notes)
 <br>
 <img src = "../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg"
-alt = "m16 seen using Celestron RASA 8 and ZWO ASI183MC"
+alt = "m16 Eagle nebula seen using Celestron RASA 8 and ZWO ASI183MC"
 onmouseover = "this.src='../images/m16_2020-06-27t01_50_29_stack_16bits_239frames_603s_crop_nobin+rot_notes.jpg'"
 onmouseout = "this.src='../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg'"
 />
