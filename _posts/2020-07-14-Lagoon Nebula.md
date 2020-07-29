@@ -2,7 +2,7 @@
 layout: post
 title: The Lagoon Nebula
 categories: nebula open
-tags: m8
+tags: m8 ngc6530
 ---
 The Lagoon Nebula, M8, is another remarkable region where new stars are being formed.  It is a giant glowing cloud of interstellar gas lit up by nearby stars. It is divided by a dark lane of dust and it also contains an embedded
 cluster NGC 6530 whose stars have been newly formed from the nebular material.
