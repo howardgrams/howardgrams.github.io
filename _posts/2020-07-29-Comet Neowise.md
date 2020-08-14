@@ -19,7 +19,7 @@ onmouseover = "this.src='../images/c2020f3_2020-07-26t21_54_07_stack_16bits_20fr
 onmouseout = "this.src='../images/c2020f3_2020-07-26T21_54_07_Stack_16bits_20frames_60s_bin25pc.jpg'"
 />
 
-_**Comet NEOWISE 15 minutes later**_&nbsp;&nbsp; (1 min July 26, 2020)<br>
+_**Comet NEOWISE 15 minutes later**_&nbsp;&nbsp; (1 min exposure July 26, 2020)<br>
 ![c2020f3](../images/c2020f3_2020-07-26T22_15_03_Stack_16bits_20frames_60s_bin25pc.jpg)
 
 However, it is possible to obtain a longer exposure and show more detail in the comet by stacking multiple short exposures aligned on the coment nucleus instead of the background stars.  This causes the background star images to show as trails instead of as points of light.
