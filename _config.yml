@@ -36,7 +36,9 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-24712503-3
+# got new analytics ID 10/19/2020 for howardgrams instead of funnel.k7jnx, also pick up new analytics version (?)
+#google_analytics: UA-24712503-3
+google_analytics: UA-180820514-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
