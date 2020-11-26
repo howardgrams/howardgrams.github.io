@@ -9,7 +9,7 @@ Scattered mostly along the Milky Way are stellar groupings called open clusters,
 
 Here are two of my favorite open star clusters.
 
-M46 is about 5400 light years distant and contains perhaps a hundred stars between the 9th and 13th magnitude. But of special interest is the tiny planetary nebula NGC 2348 seen as the tiny bluish ring among the stars of the cluster. M46 and NGC 2348 are believed to be not related, but instead in a chance alignment as seen from the earth.
+M46 is about 5400 light years distant and contains perhaps a hundred stars between the 9th and 13th magnitude. But of special interest is the tiny planetary nebula NGC 2438 seen as the tiny bluish ring among the stars of the cluster. M46 and NGC 2438 are believed to be not related, but instead in a chance alignment as seen from the earth.
 
 ![m46 seen using Celestron RASA 8 and ZWO ASI183MC](..\images\m46_2020-03-07T21_38_58_Stack_16bits_240frames_480s.jpg)
 
