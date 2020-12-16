@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign firstpost = site.posts | last %}
-<h5>This page lists the newest posts in reverse order. <a href="{{ site.baseurl }}{{ firstpost.url }}">   Click here to start by reading the first (original) post.</a></h5>
+<h5>This page lists the newest posts first. <a href="{{ site.baseurl }}{{ firstpost.url }}">   Click here to start by reading the first (original) post.</a></h5>
 
 {% for post in site.posts %}
 <div class="posts">
