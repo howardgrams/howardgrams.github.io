@@ -25,11 +25,16 @@ body {
 
 // HLG changed max-width 6/25/2020 this affects the text width - image width set to 200% elsewhere
 // also changed margin from 0 auto to 0 1em to move text and images from centered to near left margin
+// added include mobile 0 auto on 12/16/2020 to avoid right side of text being off screen on mobile device
 .container {
-  margin: 0 1em;
+  margin: 0 1em ;
   max-width: 1200px;
-  padding: 0 10px;
+  padding: 0 1px;
   width: 100%;
+  @include mobile {
+    margin: 0 auto;
+  }
+
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -109,8 +114,12 @@ strong, b {
 }
 
 // HLG changed from 100 to 200% 6/25/2020  - should be able to jigger the left margin negative if really wide image somehow ???
+// I tried 12/16/2020 setting mobile maxwidth per commented out, but then one cannot pinch expand the image.  How to get around this?
 img {
-  max-width: 200%;
+   max-width: 200%;
+ // @include mobile {
+ //   max-width: 100%;
+ // }
 }
 
 // Fixes images in popup boxes from Google Translate

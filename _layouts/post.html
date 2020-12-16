@@ -13,22 +13,33 @@ layout: default
   </div>
 
 <br><hr>
-
-{% if page.previous %}
-    {% if page.previous.url %}
-    Previous Post  ({{page.previous.date | date: "%b %d, %Y" }}):
-     <a href="{{page.previous.url}}">{{page.previous.title}}</a> 
-    {% endif %}
+<h3>Click these links to see</h3>
+<ul>
+  {% if page.previous %}
+  {% if page.previous.url %}
+  <li>
+    <a href="{{page.previous.url}}">Previous Post  ({{page.previous.date | date: "%b %d, %Y" }}): {{page.previous.title}}</a> 
     {% endif %}
     <br>
-
-{% if page.next %}
-    {% if page.next.url %}
-    Next Post ({{page.next.date | date: "%b %d, %Y" }}):
-     <a href="{{page.next.url}}">{{page.next.title}} </a> 
     {% endif %}
+  </li>
+   
+  {% if page.next %}
+  {% if page.next.url %}
+  <li>
+    <a href="{{page.next.url}}">Next Post ({{page.next.date | date: "%b %d, %Y" }}): {{page.next.title}} </a> 
     {% endif %}
-
+    <br>
+    {% endif %}
+  </li>
+  
+  <li> <a href="{{ site.baseurl }}/about">How I make these pictures</a> </li>
+  <li> <a href="{{ site.baseurl }}/suggestions">Suggestions for best viewing these pictures</a> </li>
+  <li> <a href="{{ site.baseurl }}/categories">Index of all posts by object type</a> <br>  </li>
+  <br>
+  <li> <a href="{{ site.baseurl }}/">Return to the main blog page</a><br>  </li>
+  
+</ul>
 <hr>
 
 <div id="hyvor-talk-view"></div>

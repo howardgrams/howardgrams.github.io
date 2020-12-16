@@ -1,21 +1,33 @@
 ---
 layout: post
-title: Footnote Testing 1 2 3 4
+title: Testing 1 2 3 4
 categories: open
 tags: m45
 ---
 This is a test - not a live post!
 
-<hr>
+
 
 Test figures and captioning
 
-{% include pic.html path="../images/m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg"
+---
+
+{% include pic.html 
+path="m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg"
+caption="This is the caption to my test figure"
+caption2="Taken Feb 22, 2020  10 minute exposure"
+alt="This is the alt data"
+  %}
+
+---
+
+  {% include pic.html 
+path="m45_2020-02-22T21_54_39_Stack_16bits_202frames_606s_200621B.jpg"
 caption="This is the caption to my test figure"
 alt="This is the alt data"
   %}
 
-  <hr>
+  ---
 
 [^fna]: Taken: 2020-02-22  Exposure: 202 x 3s = 606s
 _**M45  (move mouse over image to show the "dipper" shape, mouse off image to restore)**_ (details here [^fna])

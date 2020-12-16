@@ -1,7 +1,14 @@
+<!--trying to come up with a general image include  - HLG-->
+
 {% if include.caption %}
-_**{{ include.caption }}**_ &nbsp;&nbsp; (And some more instrx)
+_**{{ include.caption }}**_ &nbsp;&nbsp;{{ include.caption2 }}
 {% endif %}
- <figure>
-  <img src="{{ include.path  }}"
+  <img src="../images/{{ include.path  }}"
        alt="{% if include.alt %}{{ include.alt }}{% endif %}">
-</figure>
+
+  Looking at it:    "../images/{{include.path | img_url}}"
+
+<!--
+**Messier 74 (M74)**_ &nbsp;&nbsp; (12 min total exposure Dec 12, 2020)<br>
+![m74 seen using Celestron RASA 8 and ZWO ASI183MC](../images/m74_2020-12-09T22_08_17_Stack_16bits_240frames_720s.jpg)/
+-->
