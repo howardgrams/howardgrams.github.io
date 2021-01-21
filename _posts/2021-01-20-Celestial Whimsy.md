@@ -15,8 +15,10 @@ _**NGC 281**_ &nbsp;&nbsp; (20 min total exposure Jan 14, 2021)<br>
 <img src = "../images/pacman.gif"
 alt = "pacman"
 width="145" height="100"
+align=left
 />
-![pacman](../images/pacman.gif)
+![pacman_animation](../images/pacman.gif)
+
 Why the name Pacman Nebula??  Well, anyone over the age of 45 probably remembers PacMan, an early arcade and computer game that was introduced in 1980.
 The game was quite influential, and is commonly considered to be one of the greatest video games of all time. 
 The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. 
