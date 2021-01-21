@@ -12,9 +12,7 @@ or more properly, NGC 281. The nebula has several dozen stars at the center, the
 _**NGC 281**_ &nbsp;&nbsp; (20 min total exposure Jan 14, 2021)<br>
 ![ngc281 seen using Celestron RASA 8 and ZWO ASI183MC](../images/ngc281_2021-01-14T19_23_33_Stack_16bits_240frames_1200s_bin30pc.jpg)
 
-![pacman_indirect](https://media4.giphy.com/media/A8NkSPltT13H2/giphy.gif)
-
-<img src = "../images/pacman.gif"
+<img src = "https://media4.giphy.com/media/A8NkSPltT13H2/giphy.gif"
 alt = "pacman"
 width="145" height="100"
 align=left
