@@ -14,6 +14,13 @@ onmouseover = "this.src='../images/sh2-190_2020-12-14t22_08_07_stack_16bits_300f
 onmouseout = "this.src='../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg'"
 />
 <br>
+_**The Heart Nebula**_    (move mouse over image to show notes, mouse off image to remove notes)
+<img src = "../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg"
+alt = "Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
+onmouseover = "this.src='../images/sh2-190_2020-12-14t22_08_07_stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg'"
+onmouseout = "this.src='../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg'"
+/>
+<br>
 (If you are viewing on a touchscreen device, tap the image to reveal the notations and tap away from the image to restore the original image.)
 
 ---
