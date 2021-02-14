@@ -7,21 +7,19 @@ tags:  ic1805 ngc1027  ngc896  ic1795
 Although I made this picture back in December, I thought it would be appropriate to wait and post it on Valentine's Day.
 
 _**The Heart Nebula**_  &nbsp;&nbsp; (15 min exposure Dec 14, 2020)<br>
-(move mouse over image to show notes, mouse off image to remove notes)
 <img src = "../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg"
 alt = "Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
-onmouseover = "this.src='../images/sh2-190_2020-12-14t22_08_07_stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg'"
-onmouseout = "this.src='../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg'"
 />
 <br>
-_**The Heart Nebula**_    (move mouse over image to show notes, mouse off image to remove notes)
-<img src = "../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg"
+I had problems getting my usual notations to appear and disappear by moving the mouse, so here 
+is the image with notations.
+<br>
+
+_**The Heart Nebula with notations**_    
+<img src = "../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg"
 alt = "Heart Nebula seen using Celestron RASA 8 and ZWO ASI183MC"
-onmouseover = "this.src='../images/sh2-190_2020-12-14t22_08_07_stack_16bits_300frames_900s_bin25pc_stitch+pse_notes.jpg'"
-onmouseout = "this.src='../images/sh2-190_2020-12-14T22_08_07_Stack_16bits_300frames_900s_bin25pc_stitch+pse.jpg'"
 />
 <br>
-(If you are viewing on a touchscreen device, tap the image to reveal the notations and tap away from the image to restore the original image.)
 
 ---
 
