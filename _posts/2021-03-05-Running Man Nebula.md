@@ -4,7 +4,7 @@ title: The Running Man Nebula
 categories:  nebula open 
 tags:  ngc1973 ngc1975 ngc1977 ngc1981
 ---
-Following a stretch of poor weather, I got a chance to take the telescope out again the other day and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.
+Following a stretch of poor weather, I got a chance to take the telescope out again the other night and got a good look at a somewhat whimsical space ghost - the Running Man Nebula.
 
 _**The Running Man Nebula**_  &nbsp;&nbsp; (20 min total exposure Mar 3, 2021)<br>    (move mouse over image to show notes, mouse off image to remove notes)<br>
 <img src = "../images/ngc1977+ngc1973+ngc1981+m43_2021-03-03T20_58_24_Stack_16bits_402frames_1206s_bin40pc.jpg"
