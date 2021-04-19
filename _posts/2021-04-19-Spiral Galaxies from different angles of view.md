@@ -32,7 +32,7 @@ _**NGC 7331**_  &nbsp;&nbsp; (15 min total exposure Jan 12, 2021)<br>
 (move mouse over image to show notes, mouse off image to remove notes)<br>
 <img src = "../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s.jpg"
 alt = "ngc7331 seen using Celestron RASA 8 and ZWO ASI183MC" 
-onmouseover = "this.src='../images/ngc7331_2021-01-12t19_09_02_stack_16bits_180frames_900s_notes.jpg'"
+onmouseover = "this.src='../images/ngc7331_notes.jpg'"
 onmouseout = "this.src='../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s.jpg'"
 /><br>
 (If you are using a touchscreen device, tap the image to reveal the notations
