@@ -18,6 +18,8 @@ onmouseout = "this.src='../images/ngc1232_2021-01-04T21_21_15_Stack_16bits_241fr
 (If you are using a touchscreen device, tap the image to reveal the notations
 and tap away from the image to restore the original image.)<br>
 
+If you don't see the annotated image, click [here](../images/ngc1232_2021-01-04t21_21_15_stack_16bits_241frames_1205s_notes.jpg)
+
 This galaxy contains millions of stars arranged in several spiral arms with dark lanes in interstellar dust sprinkled between them. These spiral arms are curiously bent and not gently curved as in more typical galaxies. 
 
 In addition, we see a satellite galaxy - NGC 1232A. This is somewhat reminiscent of the Whirlpool galaxy and its satellite neighbor. Click
