@@ -32,11 +32,13 @@ _**NGC 7331**_  &nbsp;&nbsp; (15 min total exposure Jan 12, 2021)<br>
 (move mouse over image to show notes, mouse off image to remove notes)<br>
 <img src = "../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s.jpg"
 alt = "ngc7331 seen using Celestron RASA 8 and ZWO ASI183MC" 
-onmouseover = "this.src='../images/ngc7331_notes.jpg'"
+onmouseover = "this.src='../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s_notes.jpg'"
 onmouseout = "this.src='../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s.jpg'"
 /><br>
 (If you are using a touchscreen device, tap the image to reveal the notations
 and tap away from the image to restore the original image.)<br>
+
+If you don't see the annotated image, click [here](../images/ngc7331_2021-01-12T19_09_02_Stack_16bits_180frames_900s_notes.jpg)
 
 NGC 7331 is about 49 light years away from us. In this image, we also see four small fainter galaxies, NGC 7335, NGC 7336, NGC 7337 and NGC 7340. These four are sometimes referred to as "fleas" to NGC 7331 but in fact they are variously six to eight times as far away from us and have no relationship whatever to NGC 7331.
 
