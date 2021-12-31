@@ -19,6 +19,6 @@ and tap away from the image to restore the original image.)<br>
 
 The source supernova exploded some 5,000 to 8,000 years ago, and the remnants have since expanded to cover an area roughly 3 degrees in diameter (about 6 times the diameter, or 36 times the area, of the full moon).
 
-The eastern part and the western part comprise the brightest part of the expanding cloud of debris  from the exploding star, while Pickering's Triange is a more diffuse and spread out remnant.
+The eastern part and the western part comprise the brightest part of the expanding cloud of debris  from the exploding star, while Pickering's Triangle is a more diffuse and spread out remnant.
 
 The Veil continues to balloon outward. Photos taken with the Hubble Space Telescope in 1997 compared with those from 2015 clearly show individual filaments on the move. The strands comprising the eastern arc of the Veil appear especially bright because we're viewing them edge-on. 
