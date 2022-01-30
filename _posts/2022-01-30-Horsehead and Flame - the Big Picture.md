@@ -7,7 +7,7 @@ tags:  ngc2024 ngc2023 ic434 ic432 ic435 b33
 
 Here's a fresh view showing both the Horsehead Nebula and the Flame Nebula, two celestial showpieces that are located quite close to each other in the constellation Orion.
 
-This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horeshead and the Flame.
+This past week we had a night with exceptionally clear and transparent skies. I was able to image a couple of new objects as well as take a fresh look at some old favorites. Among my old favorites, I can't resist reshowing the Horsehead and the Flame.
 
 
 _**Flame Nebula and Horsehead Nebula**_  &nbsp;&nbsp; (35 min total exposure Jan 27, 2022)<br>
