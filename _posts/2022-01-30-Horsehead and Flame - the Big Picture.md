@@ -25,7 +25,7 @@ The Flame Nebula and the Horsehead Nebula are part of the Orion Molecular Cloud 
 
 The darkness of the Horsehead (B 33) is caused mostly by thick dust blocking the light of stars behind it. It stands out in stark contrast to the bright reddish emission nebula IC 434 behind it. Other nearby objects include NGC 2023, IC 435 and IC 432, all of which are reflection nebulae.  
 (Reflection nebulae are clouds of interstellar dust that reflect the light from nearby or internal sources, like fog around a car headlight.)
-The very bright star Zeta Orionis is a foreground star, not associated with the Orion Molecular Cloud components.
+The very bright star Zeta Orionis (the left-most star in Orion's belt) is a foreground star, not associated with the Orion Molecular Cloud components. 
 
 Click [here](../Horsehead-nebula/index.html)
 to see my original post of the Horsehead, and
