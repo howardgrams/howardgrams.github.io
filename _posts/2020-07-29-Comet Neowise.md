@@ -12,25 +12,27 @@ Finally we had a partially clear (although hazy) sky this past Sunday evening an
 
 Since the comet was closest to the earth on July 23, it is still moving rapidly relative to the  background stars.   The first two images below were taken 15 minutes apart and show how much the comet appears to move. Move the mouse cursor over the image to see the direction and distance of movement in just 15 minutes. Because of the rapid movement, it is not possible to take long exposures without blurring the comet image.
 
-_**Comet NEOWISE    (move mouse over image to show notes)**_&nbsp;&nbsp; (1 min exposure July 26, 2020)<br>
-<img src = "../images/c2020f3_2020-07-26T21_54_07_Stack_16bits_20frames_60s_bin25pc.jpg"
+_**Comet NEOWISE**_&nbsp;&nbsp; (1 min exposure July 26, 2020)<br>
+{% include /explainnotes.js %}
+<img src = "/images/c2020f3_2020-07-26T21_54_07_Stack_16bits_20frames_60s_bin25pc.jpg"
 alt = "c2020f3"
-onmouseover = "this.src='../images/c2020f3_2020-07-26t21_54_07_stack_16bits_20frames_60s_bin25pc_notes.jpg'"
-onmouseout = "this.src='../images/c2020f3_2020-07-26T21_54_07_Stack_16bits_20frames_60s_bin25pc.jpg'"
+onmouseover = "this.src='/images/c2020f3_2020-07-26t21_54_07_stack_16bits_20frames_60s_bin25pc_notes.jpg'"
+onmouseout = "this.src='/images/c2020f3_2020-07-26T21_54_07_Stack_16bits_20frames_60s_bin25pc.jpg'"
 />
 
 _**Comet NEOWISE 15 minutes later**_&nbsp;&nbsp; (1 min exposure July 26, 2020)<br>
-![c2020f3](../images/c2020f3_2020-07-26T22_15_03_Stack_16bits_20frames_60s_bin25pc.jpg)
+![c2020f3](/images/c2020f3_2020-07-26T22_15_03_Stack_16bits_20frames_60s_bin25pc.jpg)
 
 However, it is possible to obtain a longer exposure and show more detail in the comet by stacking multiple short exposures aligned on the coment nucleus instead of the background stars.  This causes the background star images to show as trails instead of as points of light.
 
-The last image is a stack of 14 separate 1 minute exposures.  You can more easily make out cometary details.  Move the mouse cursor over the image to display notations.
+The last image is a stack of 14 separate 1 minute exposures.  You can more easily make out cometary details.  
 
-_**Comet NEOWISE    (move mouse over image to show notes)**_&nbsp;&nbsp; (14 min total exposure July 26, 2020)<br>
-<img src = "../images/c2020f3_2020-07-26DSSEntropyWeightedAvg_bin25pc+starrtools+gimp.jpg"
+_**Comet NEOWISE**_&nbsp;&nbsp; (14 min total exposure July 26, 2020)<br>
+{% include /explainnotes.js %}
+<img src = "/images/c2020f3_2020-07-26DSSEntropyWeightedAvg_bin25pc+starrtools+gimp.jpg"
 alt = "c2020f3"
-onmouseover = "this.src='../images/c2020f3_2020-07-26dssentropyweightedavg_bin25pc+starrtools+gimp_notes.jpg'"
-onmouseout = "this.src='../images/c2020f3_2020-07-26DSSEntropyWeightedAvg_bin25pc+starrtools+gimp.jpg'"
+onmouseover = "this.src='/images/c2020f3_2020-07-26dssentropyweightedavg_bin25pc+starrtools+gimp_notes.jpg'"
+onmouseout = "this.src='/images/c2020f3_2020-07-26DSSEntropyWeightedAvg_bin25pc+starrtools+gimp.jpg'"
 />
 
 The comet nucleus is a dirty snowball of dust and ice, probably about 3 miles in diameter.  Way too small to be seen in even the largest telescopes, the nucleus is surrounded by a coma or halo, dust and gas that has been boiled off the nucleus by the heat of the sun.

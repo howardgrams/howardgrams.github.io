@@ -11,17 +11,18 @@ M16 is a conspicuous cloud of interstellar gas and dust and is a region of activ
 The nebula and cluster are about 50 light years in diameter and 7000 light years away from us.
 
 _**The M16 Cluster and Eagle Nebula**_ &nbsp;&nbsp; (10 min total exposure June 27, 2020)<br>
-![m16 Eagle nebula seen using Celestron RASA 8 and ZWO ASI183MC](../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_bin2.jpg)
+{% include /explainpinch.js %}
+![m16 Eagle nebula seen using Celestron RASA 8 and ZWO ASI183MC](/images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_bin2.jpg)
 
 
 The following image is a two-times enlargement of the central part of the nebula, rotated about 45 degrees to the left. The mouse-over notes show the location of the Hubble image.
 
-_**The Hubble "Pillars of Creation" are located in the heart of the Eagle Nebula**_  <br>(move mouse over image to show notes, mouse off image to remove notes)
-<br>
-<img src = "../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg"
+_**The Hubble "Pillars of Creation" are located in the heart of the Eagle Nebula**_ <br>
+{% include /explainnotes.js %}
+<img src = "/images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg"
 alt = "m16 Eagle nebula seen using Celestron RASA 8 and ZWO ASI183MC"
-onmouseover = "this.src='../images/m16_2020-06-27t01_50_29_stack_16bits_239frames_603s_crop_nobin+rot_notes.jpg'"
-onmouseout = "this.src='../images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg'"
+onmouseover = "this.src='/images/m16_2020-06-27t01_50_29_stack_16bits_239frames_603s_crop_nobin+rot_notes.jpg'"
+onmouseout = "this.src='/images/m16_2020-06-27T01_50_29_Stack_16bits_239frames_603s_crop_nobin+rot.jpg'"
 />
 
 You have noticed significant differences in color between my images and the Hubble image. Hubble images are all false color – meaning they start out as multiple black and white images taken in different parts of the spectrum (including the ultraviolet and the infrared). These multiple images are assigned visible colors and then combined into a false color image. For the "Pillars" image, red shows light from singly-ionized sulphur, green shows light from neutral hydrogen, and blue shows light from doubly-ionized oxygen.

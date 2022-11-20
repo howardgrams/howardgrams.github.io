@@ -1,59 +1,30 @@
 <!DOCTYPE html>
-<html>
-  <head>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+<!--
+   Added the following 10/1/2022 HLG to try to get GA4 working
+   google-analytics4.html contains exactly the code that Goggle said to place after the <head> tag
+    need to put in logic to avoid if localhost
+-->
+{%- if jekyll.environment == 'production' -%}
+  {% include google-analytics4.html %}
+  {%- endif %}
 
-    <!--HLG 6/28/2020 the ? at the end is magic for some reason, and need full path otherwise pages will look for icon in same directory-->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/favicon.ico?">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+    {% include navigation.html %}
+    {% include masthead.html %}
 
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    {{ content }}
 
-    {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <!-- HLG 6/28/2020 moved analytics from body to head per Google -->
-    {% include analytics.html %}
-  </head>
-
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
-
-          <nav>
-            <a href="{{ site.baseurl }}/">Main Blog Page</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <br>
-    
-    <div id="main" role="main" class="container">
-      {{ content }}
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          &copy; {{site.copyright}} {{ 'now' | date: "%Y" }} <br>
-          {% include svg-icons.html %}
-        </footer>
-      </div>
-    </div>
-
+    {% include footer.html %}
+    {% include scripts.html %}
   </body>
+
 </html>

@@ -8,10 +8,9 @@ The North American Nebula, also known as NGC 7000, is a large emission nebula in
 
 Because of its distance, the light that was captured by my telescope and camera left the nebula about 2500 years ago. Hence the distance is quoted as being 2500 light years.
 
-(If you are viewing this on a phone or other small display, be sure to scroll to the right to see the complete image!)
-
 _**The North American  Nebula (NGC7000)**_ &nbsp;&nbsp; ( Sep 20, 2020)<br>
-![ngc7000 seen using Celestron RASA 8 and ZWO ASI183MC](../images/ngc7000_2020-09-20T22_32_31_3FrameComposite.jpg)
+{% include /explainpinch.js %}
+![ngc7000 seen using Celestron RASA 8 and ZWO ASI183MC](/images/ngc7000_2020-09-20T22_32_31_3FrameComposite.jpg)
 
 The dark area near the center is the Gulf of Mexico. Florida sticks down on the right and Mexico extends from the left center towards the bottom. One particularly bright yellow star marks Miami; another marks New Orleans. You can let your imagination roam further -- I see Raleigh, Greensboro and Winston-Salem as blue stars near the right.
 
