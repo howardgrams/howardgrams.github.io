@@ -109,6 +109,6 @@ footer_links:
   - title: Email
     url: mailto:howardgrams@yahoo.com
     icon: fas fa-envelope
-#  - title: Feed
-#    url: atom.xml
-#    icon: fas fa-rss-square
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
