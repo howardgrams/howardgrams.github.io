@@ -7,7 +7,7 @@ tags: m33
 The Triangulum Galaxy (also known as the Pinwheel Galaxy or M33) is the third largest galaxy in our Local Group of galaxies (after the Milky Way and Andromeda). It is about three million lightyears away from us.  Hence we enjoy a better view of it than any other galaxy except Andromeda.
 
 
-_**The Trangulum Galaxy (M33)**_  &nbsp;&nbsp; (75 min total exposure Dec 18, 2022)<br>
+_**The Triangulum Galaxy (M33)**_  &nbsp;&nbsp; (75 min total exposure Dec 18, 2022)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/m33_2022-12-18T21_17_43_Stack_16bits_450frames_4500s_bin25pc+PSE.jpg"
 alt = "m33 seen using Celestron RASA 8 And ZWO ASI183MC"
