@@ -24,4 +24,4 @@ more than 1,000 times the size of the Orion Nebula in our own galaxy!
 * The NGC 588 and NGC 592 and IC 132 nubulae sport a bluish glow reflected from hot new stars contained within them.
 * C39 is of interest since it is the brightest globular cluster contained within M33, although in my image it is indistinguishable from an isolated foreground star.
 
-I showed my beginner's image of M33 twp years ago -- click [here]({{ site.baseurl }}{% post_url 2020-12-15-Three more Spiral Galaxies %} ) to see it.  This new image shows a lot more detail due to a longer exposure and improved technique.
+I showed my beginner's image of M33 two years ago -- click [here]({{ site.baseurl }}{% post_url 2020-12-15-Three more Spiral Galaxies %} ) to see it.  This new image shows a lot more detail due to a longer exposure and improved technique.
