@@ -14,7 +14,7 @@ I decided to set up this blog to let me share some examples of what I see with f
 
 None of the pictures on this blog were taken using a large telescope or from a remote dark sky site. Instead, they are all taken from my light-polluted backyard surrounded by nearby street lights and neighbors' security lights.
 
-Unless otherwise mentioned, all these images were taken using a Celestron RASA 8-inch astrograph (telescope) and an iOptron AZ Mount Pro alt-azimuth mount. The camera is a ZWO ASI183MC controlled using a software program named Sharpcap. I process the raw images using another program named Startools. The earliest images I show on this blog are formed from multiple  short exposures (typically 3 seconds) stacked together to reach a total exposure of between 3 and 30 minutes. My later blog posts show images taken with longer exposures, typically 30 to 60 minutes.
+Unless otherwise mentioned, all these images were taken using a Celestron RASA 8-inch astrograph (telescope) and an iOptron AZ Mount Pro alt-azimuth mount. The camera is a ZWO ASI183MC controlled using a software program named Sharpcap. I process the raw images using another program named Startools. The earliest images I show on this blog are formed from multiple  short exposures (typically 3 seconds) stacked together to reach a total exposure of between 3 and 30 minutes. My more recent blog posts show images taken with longer exposures, typically 30 to 60 minutes.
 
 I should note that processing astronomical images to tease out as much subtle detail as possible is very much an art.  Having only been doing this for couple of years, I'm very much still in the "neophyte" category.
 
