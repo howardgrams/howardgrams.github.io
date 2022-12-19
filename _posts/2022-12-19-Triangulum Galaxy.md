@@ -17,7 +17,7 @@ onmouseout = "this.src='{{ site.baseurl }}/images/m33_2022-12-18T21_17_43_Stack_
 
 The most prominent features in M33 are the two mottled inner spiral arms arranged in a backward S. Each arm of the S has a central core of dark dust.  The bright central core of the galaxy is not as prominent as it is in many other spiral galaxies.
 
-M33 is about twice as large in the sky as the full moon, but is not visible to the naked eye except from an exceptionally clear and dark sky away from any city lights.  Because it is so near, large telescopes can spot a number of interesting kinds of objects that are normally only seen within our Milky Way. My 8-inch scope can even spot some of these in a long exposure image, and I've noted a few of them:
+M33 is about twice as large in the sky as the full moon, but is not visible to the naked eye except from an exceptionally clear and dark sky away from any city lights.  Because it is so near, large telescopes can see a number of interesting kinds of objects that are normally only seen within our Milky Way. My 8-inch scope can even spot some of these in a long exposure image, and I've noted a few of them:
 * NGC 604 is one of the largest emission nebulae known —
 more than 1,000 times the size of the Orion Nebula in our own galaxy!
 * NGC 595 is the second-brightest emission nebula in M33. Like NGC 604 it has a reddish glow due to its hydrogen emissions.
