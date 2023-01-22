@@ -4,7 +4,7 @@ title: Thor's Helmet
 categories: nebula 
 tags: ngc2359
 ---
-I never cease to be amazed at the imagination shown by astronomers over the years in coming up with names to attach to celestial nebulae.  Here is a look from last week at Thor's Helmet, a hat shaped emission nebula with wing-like appendages, more formally known as NCC 2359.
+I never cease to be amazed at the imagination shown by astronomers over the years in coming up with names to attach to celestial nebulae.  Here is a look from last week at Thor's Helmet, a hat shaped emission nebula with wing-like appendages, more formally known as NGC 2359.
 
 _**Thor's Helmet (NGC 2359)**_  &nbsp;&nbsp; (110 min total exposure Jan 15, 2023)<br>
 {% include /explainpinch.js %}
