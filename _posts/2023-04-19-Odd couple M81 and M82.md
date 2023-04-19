@@ -5,7 +5,7 @@ categories: galaxy
 tags: m81 m82
 ---
 These two spectacular galaxies are neighbors, located near the bowl of the big dipper.
-M82 is an irregular edge-on galaxy showing red gas and dark clouds. Its neighbor M81 is face-on, and displays stately grand spiral arms.
+M82 is an irregular edge-on galaxy that shows red gas and dark clouds. Its neighbor M81 is face-on, and displays stately grand spiral arms.
 
 
 _**M82 and M81**_  &nbsp;&nbsp; (45 min total exposure Apr 18, 2023)<br>
