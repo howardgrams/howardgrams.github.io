@@ -12,14 +12,14 @@ You will notice that dense pockets and lanes of dust create striking dark silhou
 
 _**Rosette Nebula**_  &nbsp;&nbsp; (30 min total exposure Apr 20, 2023)<br>
 {% include /explainpinch.js %}
-![ngc2237 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/ngc2237_2023-04-20T21_34_52_Stack_16bits_90frames_1800s_bin25pc_st8+ZPS.jpg)
+![ngc2237 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/ngc2237_2023-04-20T21_34_52_Stack_16bits_90frames_1800s_bin25pc_st8+AS+ZPS.jpg)
 
 While the central cluster is easily seen in almost any telescope, it requires photography to make out the nebula.
 
 The cluster and nebula lie are about 5,000 light-years from Earth and measure roughly 130 light years in diameter. The radiation from the young stars excites the atoms in the nebula, causing them to emit reddish hydrogen radiation, producing the emission nebula we see.  The nebula will disperse in the next few million years, leaving behind only the central cluster.
 
-Some people claim that the Rosette reminds them of a human skull. ( I have trouble seeing that!)
-What does your imagination see?
+Some people claim that the Rosette reminds them of a human skull, but I have trouble seeing that!
+What does your imagination make out?
 
 -----
 <sub>
