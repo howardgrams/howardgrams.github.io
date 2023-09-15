@@ -19,6 +19,7 @@ onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsir
 onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
 /><br>
 
+
 Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle in the dark cloud above the bright nebula, with outstretched wings diving downward. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
 
 #### Miscellaneous notes and figures:
