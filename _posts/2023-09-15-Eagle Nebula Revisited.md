@@ -12,10 +12,10 @@ Those newly-formed stars comprise the embedded star cluster NGC6611 and are the 
 
 _**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
 {% include /explainnotes.js %}
-<img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
-alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg'"
-onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
+<img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg" 
+alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC" 
+onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg'" 
+onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'" 
 /><br>
 
 
@@ -41,13 +41,9 @@ _**The Eagle Nebula minus stars**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2
 ![starless seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/starless_m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2crop+ASb2.jpg)
 
 ##### Testing ( I'm debugging a problem with mouseover not working properly ):
-<a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg>anchor text</a>
-<br>
-<a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2.jpg>anchor text</a>
-<br>
+
 ![testing Alt text]({{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg)
 <br>
-<a href="https://github.com/howardgrams/howardgrams.github.io/blob/master/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s%3D47m_bin2cropStarnet%2BASb2_notes.jpg">test text1</a>
 
 <a href="https://howardgrams.github.io/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s%3D47m_bin2cropStarnet%2BASb2_notes.jpg">test text2</a>
 
