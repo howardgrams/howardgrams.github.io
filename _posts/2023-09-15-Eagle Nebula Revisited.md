@@ -19,7 +19,7 @@ onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirL
 /><br>
 
 
-Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle in the dark cloud above the bright nebula, with outstretched wings diving downward. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
+Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle plunging downward with the head at the bottom, the wings stretched right and left and the pillars of creation comprising its claws. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
 
 #### Miscellaneous notes and figures:
 - The Eagle Nebula and star cluster NGC6611 are about 5700 light years away from us.
