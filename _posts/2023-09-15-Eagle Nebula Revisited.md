@@ -14,17 +14,10 @@ _**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
 alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_SCSirLDFdF142x20s=47m_bin2cropstarnet+ASb2_notes.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
 /><br>
 
-_**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
-{% include /explainnotes.js %}
-<img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
-alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg'"
-onmouseout = "this.src='https://howardgrams.github.io/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
-/><br>
 
 Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle in the dark cloud above the bright nebula, with outstretched wings diving downward. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
 
