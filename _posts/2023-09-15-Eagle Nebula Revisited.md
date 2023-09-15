@@ -14,7 +14,7 @@ _**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
 alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_SCSirLDFdF142x20s=47m_bin2cropstarnet+ASb2_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
 /><br>
 
