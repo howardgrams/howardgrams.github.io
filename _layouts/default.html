@@ -11,10 +11,19 @@
    Added the following 10/1/2022 HLG to try to get GA4 working
    google-analytics4.html contains exactly the code that Goggle said to place after the <head> tag
     need to put in logic to avoid if localhost
--->
+
 {%- if jekyll.environment == 'production' -%}
   {% include google-analytics4.html %}
   {%- endif %}
+-->
+
+<!--
+  tried this on 9/15/2023 per suggestion at https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/jekyll/environment.html
+-->
+  {% if jekyll.environment == 'production' and site.google_analytics4 and site.google_analytics4 != '' %}
+    {% include google-analytics4.html %}
+{% endif %}
+
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
     {% include skip-links.html %}
