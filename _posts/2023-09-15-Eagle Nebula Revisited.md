@@ -10,7 +10,6 @@ The pillars and spire are collapsing clouds of dust and gas being sculpted by in
 
 Those newly-formed stars comprise the embedded star cluster NGC6611 and are the source that  creates  and lights up the cavity in the center of the nebula.
 
-
 _**The Eagle Nebula**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2023)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg"
@@ -18,7 +17,6 @@ alt = "m16 seen using Celestron RASA 8 And ZWO ASI183MC"
 onmouseover = "this.src='{{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2.jpg'"
 /><br>
-
 
 Making out the figures suggested by names of astronomical objects is rather like imagining figures formed by clouds in the daytime sky. The eagle I see is viewed from below and is flying toward the right. It has an overly large head extending to the upper right. Its outstretched wings extend to the upper left and lower right, and its feet extend down.  Some people see the eagle in the dark cloud above the bright nebula, with outstretched wings diving downward. Others have suggested that the nebula resembles a shamrock, or three-leaf clover. What do you see?
 
@@ -41,8 +39,14 @@ _**The Eagle Nebula minus stars**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2
 {% include /explainpinch.js %}
 ![starless seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/starless_m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2crop+ASb2.jpg)
 
-<img src = "{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg"/>
-
+##### Testing:
+<a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg>anchor text</a>
+<br>
+<a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2.jpg>anchor text</a>
+<br>
+![testing Alt text]({{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg)
+<br>
+<a href="https://github.com/howardgrams/howardgrams.github.io/blob/master/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s%3D47m_bin2cropStarnet%2BASb2_notes.jpg">test text</a>
 
 -----
 <sub>
