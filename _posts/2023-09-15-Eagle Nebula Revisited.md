@@ -47,7 +47,7 @@ _**The Eagle Nebula minus stars**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2
 {% include /explainpinch.js %}
 ![starless seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/starless_m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2crop+ASb2.jpg)
 
-##### Testing (I'm debugging a problem with mouseover not working properly):
+##### Testing ( I'm debugging a problem with mouseover not working properly ):
 <a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2_notes.jpg>anchor text</a>
 <br>
 <a href={{ site.baseurl }}/images/m16_2023-09-12t01_47_21_scsirldfdf142x20s=47m_bin2cropstarnet+asb2.jpg>anchor text</a>
