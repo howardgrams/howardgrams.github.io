@@ -37,6 +37,7 @@ google_fonts:
   - name: "Lora"
     weights: "400,400i,700,700i"
 google_analytics: UA-180820514-1
+google_analytics4: G-Y8XJKXH080
 disqus:
   shortname: hyvor # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
