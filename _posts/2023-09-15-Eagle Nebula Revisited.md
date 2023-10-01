@@ -46,6 +46,7 @@ _**The Eagle Nebula minus stars**_  &nbsp;&nbsp; (47 min total exposure Sep 9, 2
 ![testing Alt text]({{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg)
 <br>
 
+
 <a href="https://howardgrams.github.io/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s%3D47m_bin2cropStarnet%2BASb2_notes.jpg">test text2</a>
 
 <a href="{{ site.baseurl }}/images/m16_2023-09-12T01_47_21_SCSirLDFdF142x20s=47m_bin2cropStarnet+ASb2_notes.jpg">test text 3</a>

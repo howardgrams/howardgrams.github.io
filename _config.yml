@@ -21,7 +21,7 @@ locale: en-USy
 
 title: "Suburban Backyard Astro Sights"
 description: "Sharing celestial scenery revealed by my 8-inch telescope"
-url: https://howardgrams.github.io
+#url: https://howardgrams.github.io
 #baseurl: /newlook
 logo: "/images/avatar.jpg"
 date_format: "%B %-d, %Y"
