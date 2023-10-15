@@ -16,7 +16,7 @@ _**Tulip Nebula**_  &nbsp;&nbsp; (60 min total exposure Oct 13, 2023)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH.jpg"
 alt = "Sh2 101 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/sh2 101_2023-10-13t02_23_21_ninasirldfdf(180x20s=60m)_grax+sirilstarnet+ash_notes.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/Sh2 101_2023-10-13T02_23_21_NinaSirLDFdF(180x20s=60m)_GraX+SirilStarnet+ASH.jpg'"
 /><br>
 
