@@ -38,7 +38,7 @@ _**The Soul Nebula (IC 1848)**_  &nbsp;&nbsp; (55 min exposure Sep 16, 2023)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/IC 1848_2023-09-16T04_26_43_NinaSirLDF(166x20s=55m)CC_GraX+Siril+ASAC.jpg"
 alt = "IC 1848 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/IC 1848_2023-09-16t04_26_43_NinaSirLDF(166x20s=55m)CC_GraX+Siril+ASAC_notes.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/IC 1848_2023-09-16T04_26_43_NinaSirLDF(166x20s=55m)CC_GraX+Siril+ASAC_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/IC 1848_2023-09-16T04_26_43_NinaSirLDF(166x20s=55m)CC_GraX+Siril+ASAC.jpg'"
 />
 <i><small><font color="magenta"> (Click
