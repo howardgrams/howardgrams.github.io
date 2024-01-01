@@ -7,6 +7,8 @@ tags: ngc7023
 
 Well, everything doesn't come out perfectly.  Here are some pictures ruined by artificial satellite trails and meteors.
 
+"A:\m77\2020-02-14\m77_2020-02-14T19_54_05_Stack_16bits_81frames_324s.fits"    crossed satellite tracks
+
 m13 220829 satellite track
 
 m109 220812 perseid
