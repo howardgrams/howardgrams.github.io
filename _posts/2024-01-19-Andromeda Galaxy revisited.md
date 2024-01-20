@@ -30,7 +30,7 @@ To show image full size, press ESC To Return.)</font></small></i>
 
 - Like the Milky Way with its Magellanic Cloud satellites,  M31 has two prominent satellite galaxies, M32 and M110. M32, a compact elliptical galaxy, appears as a distinctive celestial companion, nestled near the heart of Andromeda.  M110, a larger elliptical galaxy, graces the frame with its glow, extending the canvas beyond the M31.
  
- - NGC 206 is a star cloud contained in a spiral arm within the Andromeda Galaxy. It is the richest and most conspicuous such cloud and contains hundreds of new and extremely bright stars. 
+ - NGC 206 is a star cloud contained within a spiral arm of the Andromeda Galaxy. It is the richest and most conspicuous such cloud and contains hundreds of new and extremely bright stars. 
 
  ----
 
