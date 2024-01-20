@@ -6,7 +6,7 @@ tags: m31 m32 m110 ngc209
 excerpt_separator: <!--endSummary-->
 ---
   
-The Andromeda Galaxy (M31) is the closest sprial galaxy to our own Milky Way.
+The Andromeda Galaxy (M31) is the closest spiral galaxy to our own Milky Way.
 It is visible to the naked eye as a faint smudge on a dark moonless night; it is impressive in a small telescope; but it takes a long exposure photograph to reveal its full extent and structure.
 <!--endSummary-->
 
