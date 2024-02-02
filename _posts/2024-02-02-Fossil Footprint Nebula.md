@@ -32,5 +32,5 @@ align=left
 />
 When I first saw my image of NGC 1491, I kept thinking "That reminds me of something I've seen before."  Then it came to me.
 
-I used to work for Piedmont Airlines, who used a Speedbird logo before they disappeared in the airline merger mania of the 1980's. Privately, I'm going to think of NGC 1491 as the Speedbird Nebula.  What do you think? 
+I used to work for Piedmont Airlines; they used a Speedbird logo before they disappeared in the airline merger mania of the 1980's. Privately, I'm going to think of NGC 1491 as the Speedbird Nebula.  What do you think? 
 
