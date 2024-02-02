@@ -6,7 +6,7 @@ tags: ngc1491
 excerpt_separator: <!--endSummary-->
 ---
   
-Here's an image of NGC 1491 (also designated Sharpless Sh2-206), a faint but interestingly-shaped emission nebula.  Some sources give it the name Fossil Footprint nebula.
+Here's an image of NGC 1491 (also designated Sharpless Sh2-206), a faint emission nebula that has an interesting shape.  Some sources give it the name Fossil Footprint nebula.
   
 <!--endSummary-->
 
@@ -22,7 +22,7 @@ _**NGC1491**_  &nbsp;&nbsp; (82 min total exposure Jan 8, 2024)<br>
 To show image full size, press ESC To Return.)</font></small></i>
 <br>
 
-NGC 1491 is about 10,000 light-years away from us in the Perseus Arm of our sprial galaxy, the Milky Way.  It is a place where new stars are being born. Ultraviolet radiation from hot new stars ionizes the surrounding gas, causing it to glow reddish in visible light. 
+NGC 1491 is about 10,000 light-years away from us in the Perseus Arm of our sprial galaxy, the Milky Way and is about 100 light years across.  It is a place where new stars are being born. Ultraviolet radiation from many massive hot new stars, especially the brightest one embedded within the "cave" in the center, ionizes the surrounding gas and causies it to glow reddish in visible light.  
 
 ---
 
