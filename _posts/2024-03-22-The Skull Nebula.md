@@ -20,7 +20,7 @@ _**NGC 246**_  &nbsp;&nbsp; (92 min total exposure Jan 11, 2024)<br>
 To show image full size, press ESC To Return.)</font></small></i>
 <br>
    
-The Skull Nebula is located about 1600 light-years away from us. It is a fairly small object -- it would take about eight of them lined up side by side to equal the apparent width of the full moon. It is relatively old for a planetary nebula, about 6,600 years. Eventually, it will cool down and fade, and in just a few thousand years the clouds of gas and dust will dissipate into the interstellar medium and fade from our view.
+The Skull Nebula is located about 1600 light-years away from us. It is a fairly small object -- it would take about eight of them lined up side by side to equal the apparent width of the full moon. It is relatively old for a planetary nebula, about 6,600 years. 
 
 Once the dying star has lost all of its atmosphere, the intense ultraviolet radiation from its exposed luminous core ionizes the expelled material, causing the gas to glow as a bright planetary nebula. The central star of NGC 246 illuminates the expanding clouds of material and will continue to do so for a few more millennia. Eventually, it will cool down and fade, and the clouds of gas and dust will disappear into the interstellar medium.
 
