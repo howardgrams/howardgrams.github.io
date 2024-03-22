@@ -5,7 +5,7 @@ categories: planetary
 tags: ngc246
 excerpt_separator: <!--endSummary-->
 ---
-The Skull Nebula is another example of the remains left by a dying Sun-like star that has cast away its outer layers in a cosmic farewell, leaving behind hot, glowing complex shells of ionized gas.  I've shared many examples of these so-called planetary nebulas, but the Skull nickname for this one is particularly appropriate!
+The Skull Nebula is another example of the remains left by a dying Sun-like star that has cast away its outer layers in a cosmic farewell, leaving behind hot, glowing complex shells of ionized gas.  I've shared examples before of these so-called planetary nebulae, but the Skull is a particularly appropriate nickname for such an object!
   
 <!--endSummary-->
 The gas in the nebula’s leading edge moves in the same direction as the central star. As it collides with the interstellar medium, the gas slows down as is compressed. It becomes hotter and unstable, giving the nebula’s ring a brighter and sharper appearance and producing an asymmetric appearance. The material on the nebula’s trailing edge expands freely.  
