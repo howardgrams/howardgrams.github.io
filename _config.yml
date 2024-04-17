@@ -36,7 +36,7 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: UA-180820514-1
+# google_analytics: UA-180820514-1
 google_analytics4: G-Y8XJKXH080
 disqus:
   shortname: hyvor # Disqus shortname, e.g. "my_disqus_shortname"
@@ -76,7 +76,7 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-copyright: "All images and content on this website &copy;2023 Howard Grams"
+copyright: "All images and content on this website &copy;2024 Howard Grams"
 
 plugins:
   - jekyll-seo-tag

@@ -39,7 +39,8 @@ The Andromeda Galaxy was long assumed to be one of the nearest gaseous nebulae i
 Andromeda is a fairly tightly-wound spiral galaxy that we see about 23 degrees away from being edge-on. Because of this, it is difficult to study its spiral structure. You can see very noticable dark dust clouds interspersed among the spiral arms, especially to the lower right (the portion of the disk nearest to us) and near the bottom left.  
 
 ---
-
+<sub>
 I shared an earlier picture of the Andromeda Galaxy that I took nearly four years ago.
 You can click [here]({{ site.baseurl }}{% post_url 2020-05-29-The Andromeda Galaxy%} )
 to revisit that post. That one was a 5 minute exposure -- you can see how much more detail shows up in the recent 60 minute exposure!
+</sub>
