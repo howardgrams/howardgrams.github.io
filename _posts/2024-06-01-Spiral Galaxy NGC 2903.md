@@ -24,7 +24,7 @@ To show image full size, press ESC To Return.)</font></small></i>
 NGC 2903 is one of the brighter galaxies that amateur astronomers can observe. Its structure is characterized by a central bar-shaped region of stars, from which its spiral arms extend. This bar and spiral arms are areas where star formation is particularly active, lighting up the galaxy with the glow of countless young stars.
 
    
-NGC 2903 is about 20.5 million light years away from us. (This means that the photons of light captured by my camera last night have been travelling for over 20 million years just to get here!) 
+NGC 2903 is about 20.5 million light years away from us. (This means that the photons of light captured by my camera last night had been travelling for over 20 million years just to get here!) 
 It is about 80,000 light years across - just a little smaller than our own Milky Way, which also has a central bar and spiral arms similar to what we see here.
 
 
