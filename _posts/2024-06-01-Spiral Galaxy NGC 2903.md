@@ -2,7 +2,7 @@
 layout: post
 title:  Spiral Galaxy NGC 2903
 categories: galaxy 
-tags: xxngc2903
+tags: ngc2903
 excerpt_separator: <!--endSummary-->
 ---
   
