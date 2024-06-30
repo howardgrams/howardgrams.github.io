@@ -19,9 +19,9 @@ _**Messier 5 (M 5)**_  &nbsp;&nbsp; (29 min total exposure Jun 26, 2024)<br>
 {% include /explainpinch.js %}
 ![M 5 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/M 5_2024-06-26T03_48_53_NinaSirLDF(88x20s=29m)_GraX3+siril+AP75pct.jpg)
 <br>
-<i><small><font color = "magenta" > (Click
+<i><small><font color = "magenta" > (I encourage you to click
 <a href = "{{ site.baseurl }}/images/M 5_2024-06-26T03_48_53_NinaSirLDF(88x20s=29m)_GraX3+siril+AP75pct.jpg">here </a>
-To show image full size, press ESC To Return.)</font></small></i>
+to show image full size; press ESC To Return.)</font></small></i>
 <br>
    
 Globular clusters reside within the galactic halo, a sphere-shaped region of the Milky Way that extends above and below the center of the galactic disk. 
