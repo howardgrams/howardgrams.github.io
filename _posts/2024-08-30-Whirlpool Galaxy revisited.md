@@ -18,10 +18,10 @@ The pair forms one of the prettiest objects in the sky.  Its intricate structure
 <br>
 _**Whirlpool Galaxy (M51)**_  &nbsp;&nbsp; (88 min total exposure Aug 23 and 25, 2024)<br>
 {% include /explainpinch.js %}
-![m51 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2.jpg)
+![m51 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg)
 <br>
 <i><small><font color = "magenta" > (Click
-<a href = "{{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2.jpg">here </a>
+<a href = "{{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg">here </a>
 To show image full size, press ESC To Return.)</font></small></i>
 <br>
    
