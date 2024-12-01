@@ -1,7 +1,7 @@
 <nav class="page-pagination" role="navigation">
   {% if page.previous %}
     <a class="page-previous" href="{{ page.previous.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Previous' }}</h4>
+      <h4 class="page-pagination-label">{{ site.data.text[site.locale].previous | default: 'Click here to view the previous post' }}</h4>
       <span class="page-pagination-title">
         <i class="fas fa-arrow-left"></i> {{ page.previous.title | markdownify | strip_html }}
       </span>
@@ -10,7 +10,7 @@
 
   {% if page.next %}
     <a class="page-next" href="{{ page.next.url | relative_url }}">
-      <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Next' }}</h4>
+      <h4 class="page-pagination-label">{{ site.data.text[site.locale].next | default: 'Click here to view the next post' }}</h4>
       <span class="page-pagination-title">
         {{ page.next.title | markdownify | strip_html }} <i class="fas fa-arrow-right"></i>
       </span>
