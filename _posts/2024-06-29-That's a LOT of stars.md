@@ -19,10 +19,21 @@ _**Messier 5 (M 5)**_  &nbsp;&nbsp; (29 min total exposure Jun 26, 2024)<br>
 {% include /explainpinch.js %}
 ![M 5 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/M 5_2024-06-26T03_48_53_NinaSirLDF(88x20s=29m)_GraX3+siril+AP75pct.jpg)
 <br>
-<i><small><font color = "magenta" > (I encourage you to click
-<a href = "{{ site.baseurl }}/images/M 5_2024-06-26T03_48_53_NinaSirLDF(88x20s=29m)_GraX3+siril+AP75pct.jpg">here </a>
-to show image full size; press ESC To Return.)</font></small></i>
-<br>
+
+<button onclick="viewImageFullscreen('
+{{ site.baseurl }}/images/M 5_2024-06-26T03_48_53_NinaSirLDF(88x20s=29m)_GraX3+siril+AP75pct.jpg')" 
+onmouseover="this.style.background='#6c757d'; this.style.color='#fff';" 
+      onmouseout="this.style.background='#f8f9fa'; this.style.color='#212529';"
+        style="color: #black; 
+               font-size: .9em; 
+               font-style: italic; 
+               background-color: #f0f0f0; /* Light gray */
+               border: 2px solid #DB8B98; 
+               border-radius: 10px; 
+               padding: 10px 20px; 
+               cursor: pointer;">
+  Click here to show image in full screen mode. (Not recommended on phone or small tablet.)
+</button>
    
 Globular clusters reside within the galactic halo, a sphere-shaped region of the Milky Way that extends above and below the center of the galactic disk. 
 They are the oldest members of our galaxy -- they formed first, as the galaxy was forming. In the tightly-packed central part of M5 the average distance between stars is as little as 1/40 of the distance between stars in our own neighborhood.

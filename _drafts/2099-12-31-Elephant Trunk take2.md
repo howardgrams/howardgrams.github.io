@@ -5,7 +5,7 @@ categories: nebula
 tags: ic1396
 ---
 
-A new look.
+A new look at a previous target.
 
 _**IC 1396**_  &nbsp;&nbsp; (xx min total exposure Mon dd, 202x)<br>
 {% include /explainpinch.js %}

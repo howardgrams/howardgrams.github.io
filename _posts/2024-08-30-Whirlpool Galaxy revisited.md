@@ -20,10 +20,21 @@ _**Whirlpool Galaxy (M51)**_  &nbsp;&nbsp; (88 min total exposure Aug 23 and 25,
 {% include /explainpinch.js %}
 ![m51 seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg)
 <br>
-<i><small><font color = "magenta" > (Click
-<a href = "{{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg">here </a>
-To show image full size, press ESC To Return.)</font></small></i>
-<br>
+
+<button onclick="viewImageFullscreen('
+{{ site.baseurl }}/images/m51_2024-08-23+25_NinaSirLDFnorm(264x20s=88m)_GraXGdN+sirilstarnet+ap2+CCSD.jpg')" 
+onmouseover="this.style.background='#6c757d'; this.style.color='#fff';" 
+      onmouseout="this.style.background='#f8f9fa'; this.style.color='#212529';"
+        style="color: #black; 
+               font-size: .9em; 
+               font-style: italic; 
+               background-color: #f0f0f0; /* Light gray */
+               border: 2px solid #DB8B98; 
+               border-radius: 10px; 
+               padding: 10px 20px; 
+               cursor: pointer;">
+  Click here to show image in full screen mode. (Not recommended on phone or small tablet.)
+</button>
    
 The location in the sky of the Whirlpool and its companion is close to the star at the end of the handle of the Big Dipper.
 Recent estimates of distance to the pair place them between 23 and 31 million light years from the earth.
