@@ -16,7 +16,7 @@ _**IC 1318**_  &nbsp;&nbsp; (45 min total exposure Oct 19, 2023)<br>
 
 <button onclick="viewImageFullscreen('{{ site.baseurl }}/images/ic1318_2023-10-19T02_29_02_NinaSirLDFdF(135x20s=45m)_graxp_4xmosaic+CCds_crop+starnet+AP2_25pct.jpg')" 
         onmouseover="this.style.background='#6c757d'; this.style.color='#fff';" 
-      onmouseout="this.style.background='#f0f0f0'; this.style.color='#212529';"
+        onmouseout="this.style.background='#f0f0f0'; this.style.color='#212529';"
         style="color: #black; 
                font-size: .9em; 
                font-style: italic; 
@@ -25,7 +25,7 @@ _**IC 1318**_  &nbsp;&nbsp; (45 min total exposure Oct 19, 2023)<br>
                border-radius: 10px; 
                padding: 10px 20px; 
                cursor: pointer;">
-  Click here to show image in full screen mode. (Not recommended on phone or small tablet.)
+                 Click here to display the image in full screen mode. (Not recommended on a phone or small tablet.)
 </button><br>
 
 The Butterfly is officially cataloged as IC 1318. 

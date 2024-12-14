@@ -30,7 +30,7 @@ onmouseover="this.style.background='#6c757d'; this.style.color='#fff';"
                border-radius: 10px; 
                padding: 10px 20px; 
                cursor: pointer;">
-  Click here to show image in full screen mode. (Not recommended on phone or small tablet.)
+  Click here to display the image in full screen mode. (Not recommended on a phone or small tablet.)
 </button>
    
 
