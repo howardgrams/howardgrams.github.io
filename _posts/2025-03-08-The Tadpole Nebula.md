@@ -17,7 +17,7 @@ _**IC 410 and NGC 1893**_  &nbsp;&nbsp; (109 min total exposure Mar 1, 2025)<br>
 {% include /explainnotes.js %}
 <img src = "{{ site.baseurl }}/images/IC 410_2025-03-01T00_49_47_NinaSirLDFdF(327x20s=109m)_graxpert_stars_decon+denoised+sirilCC-G+starnet+AP2.jpg"
 alt = "IC 410 seen using Celestron RASA 8 And ZWO ASI183MC"
-onmouseover = "this.src='{{ site.baseurl }}/images/ic 410_2025-03-01t00_49_47_ninasirldfdf(327x20s=109m)_graxpert_stars_decon+denoised+sirilcc-g+starnet+ap2_notes.jpg'"
+onmouseover = "this.src='{{ site.baseurl }}/images/IC 410_2025-03-01T00_49_47_NinaSirLDFdF(327x20s=109m)_graxpert_stars_decon+denoised+sirilCC-G+starnet+AP2_notes.jpg'"
 onmouseout = "this.src='{{ site.baseurl }}/images/IC 410_2025-03-01T00_49_47_NinaSirLDFdF(327x20s=109m)_graxpert_stars_decon+denoised+sirilCC-G+starnet+AP2.jpg'"
 />
 <button onclick="viewImageFullscreen('{{ site.baseurl }}/images/IC 410_2025-03-01T00_49_47_NinaSirLDFdF(327x20s=109m)_graxpert_stars_decon+denoised+sirilCC-G+starnet+AP2.jpg')"
