@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Changes and Improvements
-categories: 
-tags: 
 ---
 I'd like to call your attention to some changes and improvements to this blog in the past week or so as I try to make the site more enjoyable to browse.
 

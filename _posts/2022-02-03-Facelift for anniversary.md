@@ -1,8 +1,6 @@
 ---
 layout: post
 title: A facelift for our second anniversary
-categories:    
-tags:  
 ---
 
 It has been two years since I started this blog. 
