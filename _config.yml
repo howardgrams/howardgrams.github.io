@@ -76,7 +76,7 @@ tag_archive_path: "/tags/#"
 #   - vendor/gems/
 #   - vendor/ruby/
 
-copyright: "All images and content on this website &copy;2024 Howard Grams"
+copyright: "All images and content on this website &copy;2025 Howard Grams"
 
 plugins:
   - jekyll-seo-tag
