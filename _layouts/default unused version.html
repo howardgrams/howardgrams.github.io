@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<!--
+    So Simple Jekyll Theme 3.2.0
+    Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+    Free for personal and commercial use under the MIT license
+    https://github.com/mmistakes/so-simple-theme/blob/master/LICENSE
+-->
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}" class="no-js">
+  {% include head.html %}
+
+<!--
+  tried this on 9/15/2023 per suggestion at https://michaelcurrin.github.io/dev-cheatsheets/cheatsheets/jekyll/environment.html
+-->
+  {% if jekyll.environment == 'production' and site.google_analytics4 and site.google_analytics4 != '' %}
+    {% include google-analytics4.html %}
+{% endif %}
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %} {% if page.entries_layout == 'grid' %}page--wide{% endif %} {{ page.title | slugify }}">
+    {% include skip-links.html %}
+    {% include navigation.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+
+    <!-- HLG 3/19/2025 -->
+    {% if page.use_slideshow %}
+    <script src="{{ "/assets/js/eclipseslideshow.js" | relative_url }}"></script>
+    {% endif %}
+    
+<!-- Simple Analytics - 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
+  </body>
+
+</html>

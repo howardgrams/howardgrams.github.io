@@ -48,4 +48,10 @@
   {%- endif -%}
 
   {% include head-custom.html %}
+
+<!-- HLG 3/19/2025 -->
+{% if page.use_slideshow %}
+<link rel="stylesheet" href="{{ "/assets/css/slideshow.css" | relative_url }}">
+{% endif %}
+
 </head>
