@@ -14,7 +14,7 @@ We had fine weather here in North Carolina for the Pi Day March eclipse of the m
 <!--endSummary-->
 
 
-_**Fully-eclipsed moon**_  &nbsp;&nbsp; (March 14, 2025 1:14 am EDT)<br>
+_**Fully-eclipsed moon**_  &nbsp;&nbsp; (March 14, 2025 2:36 am EDT)<br>
 ![Fully-eclipsed moon seen using Celestron RASA 8 and ZWO ASI183MC]({{ site.baseurl }}/images/mar2025eclipse/0236.jpg)
 
 <br/><br/>
